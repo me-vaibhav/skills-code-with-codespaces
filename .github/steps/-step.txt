@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 X
+=======
+3
+>>>>>>> parent of d983e02 (Update to 4 in STEP and README.md)
